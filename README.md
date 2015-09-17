@@ -7,7 +7,7 @@ Fitur aplikasi ini diantaranya :
 
 * Login Aplikasi
 * List Data site yang akan dipasang berdasarkan nota kesepakatan (NOKES) dari Telkom
-* Data pelaporan pemasangan Access Point (AP) berdasarkan titik lokasi penempatan AP, foto AP, foto coverage AP (estimasi coverage efektif 20m), foto ONT, foto Swicth, foto box panel (jika ada) dan titik lokasi GPS AP (jika didapatkan titik lokasi)
+* List Data pemasangan Access Point (AP) berdasarkan titik lokasi penempatan AP, foto AP, foto coverage AP (estimasi coverage efektif 20m), foto ONT, foto Swicth, foto box panel (jika ada) dan titik lokasi GPS AP (jika didapatkan titik lokasi)
 * Menampilkan peta google (google map) berdasarkan site dan AP.
 * Sinkronisasi Data hasil pemasangan ke server (termasuk foto dan titik lokasi)
 * Trouble ticket per site ataupun per AP jika terjadi masalah dilapangan seperti ONT belum ada, lokasi yang tidak memungkinkan untuk pemasangan, penyesuaian jadwal pemasangan, dan masalah lain yang bisa dilaporkan oleh tim di lapangan.
