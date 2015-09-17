@@ -1,7 +1,7 @@
 # Wifi.ID_FieldReport
 Aplikasi pelaporan pemasangan Wifi.ID
 
-Aplikasi ini dibuat untuk membantu sistem pelaporan setelah pemasangan Wifi.ID. Motivasi pembuatan aplikasi ini karena dirasakan perlunya hasil dokumentasi hasil pemasangan Wifi.ID yang utuh dan terintegrasi untuk telatnya pembuatan dokumentasi sehingga dokumentasi bisa dilakukan dalam waktu nyata (real time)
+Aplikasi ini dibuat untuk membantu sistem pelaporan setelah pemasangan Wifi.ID. Motivasi pembuatan aplikasi ini karena dirasakan perlunya hasil dokumentasi hasil pemasangan Wifi.ID yang utuh dan terintegrasi untuk menghindari keterlambatan pembuatan dokumentasi, aplikasi ini membantu pembuatan dokumentasi bisa dilakukan dalam waktu nyata (real time)
 
 Fitur aplikasi ini diantaranya :
 
